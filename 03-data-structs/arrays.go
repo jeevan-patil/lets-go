@@ -13,4 +13,7 @@ func main() {
 	fmt.Println(b)
 
 	fmt.Println("length of b array is:", len(b))
+
+	var arr = [3]int{1, 2, 3}
+	fmt.Println(arr)
 }
