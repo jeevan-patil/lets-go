@@ -6,7 +6,6 @@ func ZeroValue(val int) {
 	val = 0
 }
 
-
 func ZeroPointer(val *int) {
 	*val = 0
 }
